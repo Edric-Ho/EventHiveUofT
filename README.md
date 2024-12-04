@@ -23,15 +23,15 @@ This project solves the challenge of fragmented event information by providing a
 
 ## **Table of Contents** 📑
 
-1. [Features](#Features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [License](#license)
-5. [Feedback](#feedback)
-6. [Contribution](#contribution)
-7. [Maintenance](#maintenance)
-8. [FAQs and Troubleshooting](#faqs-and-troubleshooting)
-9. [Future Features](#future-features)
+1. [Features](Features)
+2. [Installation](installation)
+3. [Usage](usage)
+4. [License](license)
+5. [Feedback](feedback)
+6. [Contribution](contribution)
+7. [Maintenance](maintenance)
+8. [FAQs and Troubleshooting](faqs-and-troubleshooting)
+9. [Future Features](future-features)
 
 ## **Features** 🚀
 
